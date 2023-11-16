@@ -1,2 +1,2 @@
-# rshiny-tempaltes
-Templates for R Shiny
+# Templates for R Shiny Dashboards
+
